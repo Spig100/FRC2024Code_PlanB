@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: edu.wpi.first.wpilibj:wpilibj-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/wpilibj/wpilibj-java/2024.2.1/wpilibj-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.wpimath:wpimath-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/wpimath/wpimath-java/2024.2.1/wpimath-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.ntcore:ntcore-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/ntcore/ntcore-java/2024.2.1/ntcore-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.cscore:cscore-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/cscore/cscore-java/2024.2.1/cscore-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.cameraserver:cameraserver-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/cameraserver/cameraserver-java/2024.2.1/cameraserver-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.hal:hal-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/hal/hal-java/2024.2.1/hal-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.wpinet:wpinet-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/wpinet/wpinet-java/2024.2.1/wpinet-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.wpiutil:wpiutil-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/wpiutil/wpiutil-java/2024.2.1/wpiutil-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.apriltag:apriltag-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/apriltag/apriltag-java/2024.2.1/apriltag-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.wpiunits:wpiunits-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/wpiunits/wpiunits-java/2024.2.1/wpiunits-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.thirdparty.frc2024.opencv:opencv-java:4.8.0-2">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/thirdparty/frc2024/opencv/opencv-java/4.8.0-2/opencv-java-4.8.0-2.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-simple:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-simple/0.43.1/ejml-simple-0.43.1.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.15.2">
+    <archive path="C:/Users/Public/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.15.2">
+    <archive path="C:/Users/Public/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.15.2">
+    <archive path="C:/Users/Public/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar" />
+  </library>
+  <library name="Gradle: us.hebi.quickbuf:quickbuf-runtime:1.3.3">
+    <archive path="C:/Users/Public/wpilib/2024/maven/us/hebi/quickbuf/quickbuf-runtime/1.3.3/quickbuf-runtime-1.3.3.jar" />
+  </library>
+  <library name="Gradle: edu.wpi.first.wpilibNewCommands:wpilibNewCommands-java:2024.2.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/edu/wpi/first/wpilibNewCommands/wpilibNewCommands-java/2024.2.1/wpilibNewCommands-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-fsparse:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-fsparse/0.43.1/ejml-fsparse-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-fdense:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-fdense/0.43.1/ejml-fdense-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-dsparse:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-dsparse/0.43.1/ejml-dsparse-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-ddense:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-ddense/0.43.1/ejml-ddense-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-cdense:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-cdense/0.43.1/ejml-cdense-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-zdense:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-zdense/0.43.1/ejml-zdense-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.ejml:ejml-core:0.43.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/ejml/ejml-core/0.43.1/ejml-core-0.43.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-params:5.10.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/junit/jupiter/junit-jupiter-params/5.10.1/junit-jupiter-params-5.10.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.10.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar" />
+  </library>
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.10.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar" />
+  </library>
+  <library name="Gradle: org.opentest4j:opentest4j:1.3.0">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.10.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.10.1">
+    <archive path="C:/Users/Public/wpilib/2024/maven/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar" />
+  </library>
+  <library name="Gradle: com.pathplanner.lib:PathplannerLib-java:2024.2.3">
+    <archive path="C:/Users/USER/.gradle/caches/modules-2/files-2.1/com.pathplanner.lib/PathplannerLib-java/2024.2.3/fd5e4f0ff5d6a0471a1b6a6e63a210fab8bcc246/PathplannerLib-java-2024.2.3.jar" />
+  </library>
+  <library name="Gradle: com.revrobotics.frc:REVLib-java:2024.2.1">
+    <archive path="C:/Users/USER/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/REVLib-java/2024.2.1/b465570037e62e6c5a7646593c40528aa54b4dd7/REVLib-java-2024.2.1.jar" />
+  </library>
+  <library name="Gradle: com.kauailabs.navx.frc:navx-frc-java:2024.1.0">
+    <archive path="C:/Users/USER/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-frc-java/2024.1.0/afe5770a7843e0459caab435c352e36af699c5d4/navx-frc-java-2024.1.0.jar" />
+  </library>
+  <library name="Gradle: com.ctre.phoenix6:wpiapi-java:24.2.0">
+    <archive path="C:/Users/USER/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix6/wpiapi-java/24.2.0/19837cac19186d12f04acf6762178d8bb612cd71/wpiapi-java-24.2.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
